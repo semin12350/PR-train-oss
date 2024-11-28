@@ -1,0 +1,22 @@
+OSS Overview and History
+
+Copyright (c) 2024 semin12350
+
+OSS refers to software whose source code is publicly available so that 
+anyone can freely use, modify, and distribute it. OSS is usually managed by an 
+open-source license,which clearly defines the right to use and share the software.
+
+The history of open-source software (OSS) begins in the 1950s and 1970s, 
+during the early computer age, when it was common for software to come with hardware 
+and for source code to be released. During this time, academia and businesses formed 
+a culture of cooperation by freely sharing software, but the spread of commercial software
+in the 1980s led to the closure of source code. In response, in 1983, Richard Stallman
+launched the GNU Project and the Free Software Movement, introducing the General Public License (GPL),
+which guarantees the free use and distribution of software.
+
+In 1991, Linus Torvalds announced the Linux kernel, which led to the full popularization of OSS.
+In 1998, the Open Source OSI was established with the term "Open Source" to establish the definition 
+and standard of OSS. Since then, major OSS projects such as Apache, MySQL, and PHP have 
+led the development of web technology, large IT companies have participated in the OSS ecosystem, 
+and OSS has become a key technology in new technologies such as cloud computing, big data, and AI.
+
